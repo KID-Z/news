@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "搜索",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "navbar": "/components/navbar/navbar",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "list-scroll": "/components/list-scroll/list-scroll",
+    "list-card": "/components/list-card/list-card"
+  }
+}
